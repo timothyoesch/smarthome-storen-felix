@@ -76,6 +76,7 @@ axios.get('https://api.openweathermap.org/data/2.5/weather', {
     }
 })
 .then(function (response) {
+    console.log(response.data)
     const WindGust = response.data.wind.gust
     if (WindGust) {
         setStoren(WindGust)
