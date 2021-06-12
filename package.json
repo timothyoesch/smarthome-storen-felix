@@ -1,0 +1,23 @@
+{
+  "name": "smarthome-storen-felix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothyoesch/smarthome-storen-felix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timothyoesch/smarthome-storen-felix/issues"
+  },
+  "homepage": "https://github.com/timothyoesch/smarthome-storen-felix#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
